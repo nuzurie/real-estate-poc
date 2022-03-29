@@ -1,7 +1,8 @@
-package com.nuzurie.blog.repository;
+package com.nuzurie.realestate.repository;
 
-import com.nuzurie.blog.domain.Listing;
+import com.nuzurie.realestate.domain.Listing;
 import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.data.repository.PagingAndSortingRepository;
 
 import java.util.UUID;
 

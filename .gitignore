@@ -193,4 +193,5 @@ buildNumber.properties
 # "temporary" build files
 /target
 
+new_user_credentials.csv
 
